@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="UserDetails.js" defer></script>
+</head>
+<style>
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+        flex-direction: column;
+    }
+
+    .changedatail {
+        display: none;
+      
+            justify-content: center;
+    }
+
+
+</style>
+<body>
+    
+    <h1 class="title"></h1>
+    <p>welcome you login succesfull</p>
+    <button onclick="changedatails()">change details</button>
+   
+    <div class="changedatail">
+
+        <label for="name">Enter FirstName</label>
+        <br /> <br />
+        <input type="text" id="name" /> <br /> <br />
+
+        <label for="last_name">Enter LastName</label>
+        <br /> <br />
+        <input type="text" id="last_name" /> <br /> <br />
+
+        <label for="email">Enter Email</label> <br /> <br />
+        <input type="text" id="email" /> <br /> <br />
+
+        <label for="password">Enter Password</label> <br /> <br />
+        <input type="password" id="password" /> <br />
+        <br /><br />
+        <button onclick="Put()">Change</button>
+    </div>
+  
+</body>
+</html>

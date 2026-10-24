@@ -1,0 +1,8 @@
+wwwroot\Home.js
+wwwroot\UsairDetails.html
+wwwroot\UserDetails.js
+wwwroot\Home.html
+M:\API\API\WebApi\WebApi\wwwroot\UserDetails.js
+M:\API\API\WebApi\WebApi\wwwroot\Home.html
+M:\API\API\WebApi\WebApi\wwwroot\Home.js
+M:\API\API\WebApi\WebApi\wwwroot\UsairDetails.html

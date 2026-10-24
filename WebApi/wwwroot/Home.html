@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="Home.js" defer></script>
+</head>
+<style>
+    body{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+       gap:50px;
+       flex-direction:column;
+    }
+    .sign{
+        display:grid;
+        justify-content:center;
+    }
+    .connect {
+        display: grid;
+        justify-content: center;
+    }
+</style>
+<body>
+    
+    <h1>hello, </h1>
+   
+    <h2>have a good day</h2>
+    <br />
+    <div class="sign">
+        <label for="name">Enter FirstName</label>
+        <input required type="text" id="name" />
+
+        <label for="last_name">Enter LastName</label>
+        <input required type="text" id="last_name" />
+
+        <label for="email">Enter Email</label>
+        <input required type="text" id="email" />
+
+        <label for="password">Enter Password</label>
+        <input required type="password" id="password" />
+        <br /><br />
+        <button onclick="PostData()">Sign</button>
+    </div>
+
+    <div class="connect">
+        <label for="log_email">email</label>
+        <input type="text" id="log_email" />
+
+        <label for="log_password">password</label>
+        <input type="password" id="log_password" />
+        <br /><br />
+        <button onclick="Login()">Login</button>
+    </div>
+</body>
+</html>
