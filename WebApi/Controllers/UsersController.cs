@@ -39,7 +39,7 @@ namespace WebApi.Controllers
         static string filePath = "file.txt";
         // POST api/<UsersController>
         [HttpPost]
-        public ActionResult<User>Post([FromBody] User user)
+        public ActionResult<User> Post([FromBody] User user)
         {
             int numberOfUsers = System.IO.File.ReadLines(filePath).Count();
             user.id = numberOfUsers + 1;
@@ -48,6 +48,7 @@ namespace WebApi.Controllers
             Environment.NewLine);
             return user;
         }
+
         [HttpPost("login")]
         public ActionResult<User> Post([FromBody] LogUsers loginDetails)
         {
@@ -98,5 +99,6 @@ namespace WebApi.Controllers
         public void Delete(int id)
         {
         }
+
     }
 }

@@ -59,7 +59,6 @@ C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
 C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
-C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-k30kr6t9kd-k30kr6t9kd.gz
 C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.development.json
@@ -71,7 +70,6 @@ C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\refint\WebApi.dll
 C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\WebApi.pdb
 C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
 C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\ref\WebApi.dll
-C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-ww5mer7m86-ww5mer7m86.gz
 F:\מסלול\יד\API\API\WebApi\WebApi\bin\Debug\net10.0\appsettings.Development.json
 F:\מסלול\יד\API\API\WebApi\WebApi\bin\Debug\net10.0\appsettings.json
 F:\מסלול\יד\API\API\WebApi\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
@@ -129,3 +127,11 @@ M:\API\API\WebApi\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-cboo1bskce-
 M:\API\API\WebApi\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-t4ezenhmys-t4ezenhmys.gz
 M:\API\API\WebApi\WebApi\obj\Debug\net10.0\compressed\9mhamvexnn-{0}-zcmvnuxm9m-zcmvnuxm9m.gz
 M:\API\API\WebApi\WebApi\obj\Debug\net10.0\compressed\w8suzqs8xw-{0}-emg8rtg2ot-emg8rtg2ot.gz
+C:\Users\8855\Desktop\WebApi\WebApi\bin\Debug\net10.0\zxcvbn-core.dll
+C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\WebApi.sourcelink.json
+C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\compressed\9mhamvexnn-{0}-zcmvnuxm9m-zcmvnuxm9m.gz
+C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\compressed\w8suzqs8xw-{0}-emg8rtg2ot-emg8rtg2ot.gz
+C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\WebApi.csproj.Up2Date
+C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-h4zlkktkk4-h4zlkktkk4.gz
+C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-erxr8dctfl-erxr8dctfl.gz
